@@ -1,12 +1,15 @@
-# AI Portfolio
+# AI / ML Portfolio
 
-This repository contains my AI and Machine Learning projects.
+This repository showcases my learning and projects in Artificial Intelligence and Machine Learning.
 
 ## Skills
 - Python
 - NumPy, Pandas
 - Scikit-learn
-- Machine Learning Basics
+- Machine Learning (Regression)
+
+## Projects
+- House Price Prediction using Linear Regression
 
 ## Goal
-Actively preparing for entry-level AI / ML roles.
+Actively preparing for entry-level AI / ML job roles.
