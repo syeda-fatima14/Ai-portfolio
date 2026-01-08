@@ -16,3 +16,7 @@ A simple machine learning model trained on sample data to predict house prices.
 
 ## Result
 The model predicts house prices for new input values.
+
+## How to Run
+1. Install required libraries
+2. Run `model.py`
